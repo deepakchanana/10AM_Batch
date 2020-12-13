@@ -15,6 +15,7 @@ public static void main(String[] args)
   hm.put(56,"QTP");
   hm.put(89,"API");
   hm.put(891,"API");
+  System.out.println("changes done");
   
   Set<Integer> all=hm.keySet();  // it will give you all the keys
   
